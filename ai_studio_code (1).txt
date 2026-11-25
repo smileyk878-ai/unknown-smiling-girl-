@@ -1,0 +1,13 @@
+unknown-smiling-girl/
+├── index.html
+├── styles.css
+├── app.js
+└── assets/
+    ├── image-3.jpg    (Scene 1 — Bedroom morning)
+    ├── image-4.jpg    (Episode 2 Teaser — Rainbow Valley School)
+    ├── image-7.jpg    (Scenes 2, 3, 4 — Aarvi watching Dora alone)
+    ├── image-8.jpg    (Scene 5 — Ruhi arriving at doorway)
+    ├── image-9.jpg    (Scenes 2, 4, 6 — Family in living/dining area)
+    ├── image-10.jpg   (Scene 5 — Entering Aarvi's pink bedroom)
+    ├── image-11.jpg   (Scene 5 — Girls looking at house drawing in teepee)
+    └── image-12.jpg   (Scenes 2, 6 — Mumma & Aarvi on sofa)
